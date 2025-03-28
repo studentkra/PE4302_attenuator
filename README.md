@@ -9,6 +9,6 @@ In Linux system:
 
 Use "python attn.py get" to get current value of attenuator
 
-User "python attn.py 10.0" to set 10.0 dB attenuation.
+Use "python attn.py 10.0" to set 10.0 dB attenuation.
 
 Current value of attenuation is stored in EEPROM of ESP8266 and will restore after power failure.
